@@ -5,5 +5,7 @@ This code contains an algorithm that searches for the most similar words to a sp
 
 # Libraries
 Pandas 1.3.5
+
 NumPy 1.21.6
+
 Transformers 4.26.0
